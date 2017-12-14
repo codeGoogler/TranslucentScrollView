@@ -134,6 +134,15 @@ if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {//5.0及以上
 
 [Android 图片选择到裁剪之步步深坑](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247484873&idx=1&sn=ff61bb74db725970d939a7b40ab0e06e&chksm=eb476957dc30e0417f04e9463949482d52ec30e181d38029f0dd18388b58448d067404678839&scene=21#wechat_redirect)
 
+>博客地址：
+>
+> http://www.jianshu.com/p/05aa5329c3d3
+
+> 项目地址：
+>
+> https://github.com/androidstarjack/TranslucentScrollView
+
+
 #### 相信自己，没有做不到的，只有想不到的
 
 如果你觉得此文对您有所帮助， 欢迎加入微信公众号：终端研发部
