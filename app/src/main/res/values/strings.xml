@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">渐变拉缩状态栏</string>
+    <string name="amount">总计：5000元</string>
+    <string name="attention">关注人数：300人</string>
+
+
+    <string name="wallet">钱包</string>
+    <string name="sign">签到</string>
+    <string name="today_has_sign">(今日已签到)</string>
+    <string name="receive_address">家庭地址</string>
+    <string name="my_agent">我的医院</string>
+    <string name="i_want_a_teacher">我要学医</string>
+    <string name="start_luck">开始抽奖</string>
+    <string name="invite_reward">邀请奖励</string>
+    <string name="set">设置</string>
+</resources>
